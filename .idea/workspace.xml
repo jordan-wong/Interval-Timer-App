@@ -65,9 +65,13 @@
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+<<<<<<< Updated upstream
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
+=======
+      <method v="2" />
+>>>>>>> Stashed changes
     </configuration>
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
       <module name="TwoMinTimer.app" />
@@ -122,9 +126,13 @@
       <option name="ACTIVITY_CLASS" value="" />
       <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
       <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+<<<<<<< Updated upstream
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
+=======
+      <method v="2" />
+>>>>>>> Stashed changes
     </configuration>
   </component>
   <component name="SvnConfiguration">
@@ -196,6 +204,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="837" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608585022080" />
+<<<<<<< Updated upstream
+=======
+    <state x="461" y="417" key="Github.ShareDialog" timestamp="1609179467854">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="417" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1609179467854" />
+>>>>>>> Stashed changes
     <state width="938" height="278" key="GridCell.Tab.0.bottom" timestamp="1608929068769">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
