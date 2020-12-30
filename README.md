@@ -1,5 +1,8 @@
-# Interval-Timer-App
+## Interval-Timer-App
 Android app to assist with HIIT workouts
+
+# What is HIIT?
+Stands for High Intensity Interval Training, a method of excersize used by athletes to increase stamina and endurance.
 
 Using the app for HIIT:
 1. Set a timer and set the number of recurrences
