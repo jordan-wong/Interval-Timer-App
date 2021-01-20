@@ -4,5 +4,7 @@ com/example/twomintimer/BuildConfig.java
  com.example.twomintimer.BuildConfig
 com/example/twomintimer/MainActivity.java
  com.example.twomintimer.MainActivity
+ com.example.twomintimer.MainActivity$1
+ com.example.twomintimer.MainActivity$2
+ com.example.twomintimer.MainActivity$3
  com.example.twomintimer.MainActivity$MyCountDownTimer
- com.example.twomintimer.MainActivity$MyCountDownTimer$1

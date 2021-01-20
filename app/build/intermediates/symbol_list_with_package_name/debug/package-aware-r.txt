@@ -1620,6 +1620,7 @@ id clear_text
 id clip_horizontal
 id clip_vertical
 id collapseActionView
+id colon
 id confirm_button
 id container
 id content
@@ -1693,6 +1694,10 @@ id ignore
 id ignoreRequest
 id image
 id info
+id infoMin
+id infoScrolls
+id infoSec
+id infoSettingsText
 id invisible
 id italic
 id item_touch_helper_previous_elevation
@@ -1748,6 +1753,8 @@ id notification_background
 id notification_main_column
 id notification_main_column_container
 id numPicker
+id numPickerTime_min
+id numPickerTime_sec
 id off
 id on
 id outline
@@ -1855,6 +1862,7 @@ id textinput_error
 id textinput_helper_text
 id time
 id timeDisplay
+id timePickConstraint
 id title
 id titleDividerNoCustom
 id title_template
@@ -2010,6 +2018,8 @@ layout text_view_without_line_height
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
+raw bell_ring_long
+raw boxing_ring
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
